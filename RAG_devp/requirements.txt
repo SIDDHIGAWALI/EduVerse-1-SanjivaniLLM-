@@ -1,0 +1,5 @@
+torch>=2.2
+tokenizers>=0.19
+sentence-transformers>=2.6
+faiss-cpu>=1.8
+numpy>=1.24

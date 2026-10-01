@@ -1,0 +1,20 @@
+=== Corpus Merge Report ===
+
+Files included:      10
+Files skipped (empty/too short): 0
+Files skipped (duplicate):       0
+Files skipped (unreadable):      0
+Total words in final corpus:     2,321
+Rough estimated tokens (~1.3x words): 3,017
+
+--- Included ---
+  academic_environment.txt
+  academic_programmes.txt
+  admission_info.txt
+  exam_rules.txt
+  industry_connect.txt
+  library_info.txt
+  sanjivani_college_synthetic.txt
+  student_development.txt
+  Syllabus.txt
+  university_information.txt

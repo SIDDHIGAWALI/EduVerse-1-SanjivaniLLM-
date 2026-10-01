@@ -1,0 +1,39 @@
+SOURCE URL: https://sanjivani.edu.in/academic-council
+
+ACADEMIC COUNCIL
+
+Academic Council
+
+Academic Council
+
+Sr. No	Name of the Member	Designation
+
+1	Dr. Ajaykumar G. Thakur	Vice Chancellor - Chairperson
+
+2	Dr. P. Kavitharani	Dean - SET
+
+3	Dr. V. R. Malkar	Dean - SCM
+
+4	Dr. S. B. Dahikar	Dean - SSC
+
+5	Mr. Shriram Joshi	Industry Expert
+
+6	Mr. Hardik Kothadiya	Academic Expert
+
+7	Dr. Giridharan C.	Academic Expert
+
+8	Dr. Prashan R. Nair	Academic Expert
+
+9	Dr. V. Vijayrajan	Academic Expert
+
+10	Mr. Viresh Agrawal	Academic Expert
+
+11	Dr. P. B. Khatkale	Controller of Examination
+
+12	Dr. M. B. Gawali	HoD, CSE
+
+13	Mr. Sudhanshu Bhatt	HoD, BBA
+
+14	Dr. M. Sujith	Director, IQAC
+
+15	Mr. Amol A. Dhakane	Registrar – Member Secretary

@@ -1,0 +1,441 @@
+SOURCE URL: https://sanjivani.edu.in/directors-desk
+
+High ContrastGray ScaleIncrease FontDecrease FontOriginal FontUnderline LinksText ReaderReset
+
+ENQUIRY FORM
+
+Name *
+
+Contact No *
+
+Email Id*
+
+Any Particular Course
+
+Your Message
+
+*
+
+Please wait
+
+Admission enquiry form submitted successful
+
+×
+
+To join whatsapp group click below
+
+button
+
+Join
+
+Whatsapp Group
+
+Close
+
+Whatsapp
+
+Admissions
+
+Facebook
+
+Linkedin
+
+Youtube
+
+Instagram
+
+Apply Now
+
+document.addEventListener("DOMContentLoaded", function() {
+
+const toggler = document.querySelector(".navbar-toggler");
+
+const header = document.querySelector(".site-header");
+
+if (!toggler || !header) return;
+
+toggler.addEventListener("click", function() {
+
+header.classList.toggle("menu-open");
+
+});
+
+});
+
+const header = document.querySelector(".site-header");
+
+window.addEventListener("scroll", () => {
+
+if (window.scrollY > 30) {
+
+header.classList.add("scrolled");
+
+} else {
+
+header.classList.remove("scrolled");
+
+}
+
+});
+
+// Handle clicking on the search icon to show/hide the input
+
+document.querySelector('.search-icon').addEventListener('click', function(event) {
+
+const searchInput = document.querySelector('.search-input');
+
+searchInput.style.display = 'block'; // Show the input field
+
+event.stopPropagation(); // Prevent the click from propagating to the document
+
+});
+
+// Handle clicking outside the input to hide it
+
+document.addEventListener('click', function(event) {
+
+const searchInput = document.querySelector('.search-input');
+
+const searchIcon = document.querySelector('.search-icon');
+
+// Check if the click is outside the input or the icon
+
+if (!searchInput.contains(event.target) && !searchIcon.contains(event.target)) {
+
+searchInput.style.display = 'none'; // Hide the input field
+
+}
+
+});
+
+// Prevent hiding the input when clicking inside it
+
+document.querySelector('.search-input').addEventListener('click', function(event) {
+
+event.stopPropagation(); // Prevents the document click event from firing
+
+});
+
+var npf_d = 'https://apply.sanjivani.edu.in';
+
+var npf_c = '6918';
+
+var npf_m = '1';
+
+var s = document.createElement("script");
+
+s.type = "text/javascript";
+
+s.async = true;
+
+s.src = "https://track.nopaperforms.com/js/track.js";
+
+document.body.appendChild(s);
+
+User Defined Page
+
+Home
+
+User Defined Page
+
+{{accordion.tpa_title}}
+
+No content added yet
+
+About IQAC
+
+IQAC Committee
+
+IQAC Activities
+
+AQAR
+
+SSR
+
+Quick Links
+
+Prospectus
+
+Academic Calendar
+
+Library
+
+Placement Cell
+
+{{accordion.tpa_title}}
+
+No content added yet
+
+{{tab.tpt_title}}
+
+{{tab.tpt_title}}
+
+{{tab.tpt_title}}
+
+{{accordion.tpa_title}}
+
+{{accordion.tpa_title}}
+
+No Content Available
+
+.vtabs .accordion {
+
+border: 1px solid #d7dce6;
+
+border-radius: 6px;
+
+background: #fff;
+
+overflow: hidden;
+
+}
+
+.vtabs .accordion-item+.accordion-item {
+
+border-top: 1px solid #d7dce6;
+
+}
+
+.vtabs .accordion-button {
+
+display: flex !important;
+
+align-items: center;
+
+background: #053869 !important;
+
+color: #fff !important;
+
+font-weight: 600;
+
+padding: .85rem 1rem;
+
+border: none;
+
+box-shadow: none;
+
+}
+
+.vtabs .accordion-button:not(.collapsed) {
+
+background: #e4edff !important;
+
+color: #0b5ed7 !important;
+
+}
+
+.vtabs .accordion-body {
+
+background: #fff;
+
+padding: 1rem 1.25rem;
+
+}
+
+.main-whitePanel {
+
+padding-bottom: 5px;
+
+}
+
+.vt-tabs { display: flex; gap: 2rem; }
+
+.vt-tab-list { display: flex; flex-direction: column; gap: 6px; min-width: 220px; }
+
+.vt-tab {
+
+padding: 10px;
+
+background: #053869;
+
+color: #fff;
+
+font-weight: 500;
+
+text-align: left;
+
+transition: all .2s ease;
+
+border: none;
+
+}
+
+.vt-tab[aria-selected="true"] {
+
+background: #ffbf00;
+
+color: #000;
+
+box-shadow: inset -3px 0 0 var(--color-default);
+
+}
+
+.vt-tab-panels { flex: 1; }
+
+.vt-tab-panel-wrapper { width: 100%; }
+
+.vt-tab-panel { display: none; }
+
+.vt-tab-panel.active { display: block; }
+
+.vt-accordion { border: 1px solid #dfe4ef; border-radius: 8px; overflow: hidden; }
+
+.vt-accordion-item + .vt-accordion-item { border-top: 1px solid #dfe4ef; }
+
+.vt-accordion-header {
+
+width: 100%;
+
+background: #053869;
+
+border: none;
+
+color: #fff;
+
+padding: 1rem 1.25rem;
+
+font-weight: 600;
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+
+cursor: pointer;
+
+}
+
+.vt-accordion-header[aria-expanded="true"] { background: #053869; color: #fff; }
+
+.accordion-icon {
+
+width: 1rem;
+
+height: 1rem;
+
+display: inline-flex;
+
+align-items: center;
+
+justify-content: center;
+
+margin-left: .75rem;
+
+}
+
+.accordion-icon::before {
+
+content: '\25BC';
+
+font-size: .85rem;
+
+transition: transform .25s ease;
+
+}
+
+.accordion-icon.rotated::before { transform: rotate(180deg); }
+
+.vt-accordion-panel { padding: 1rem 1.25rem; }
+
+.vt-accordion-panel[hidden] { display: none; }
+
+.vt-mobile-toggle {
+
+display: none;
+
+width: 100%;
+
+border: none;
+
+border-radius: 8px;
+
+background: #053869;
+
+padding: 1rem 1.25rem;
+
+font-weight: 600;
+
+color: #fff;
+
+justify-content: space-between;
+
+align-items: center;
+
+gap: .75rem;
+
+}
+
+.vt-mobile-toggle .accordion-icon::before { transition: transform .25s ease; }
+
+.vt-mobile-toggle.open { border-color: none; background: #ffbf00; color: #000; }
+
+@media (max-width: 991px) {
+
+.vt-tabs { flex-direction: column; }
+
+.vt-tab-list { display: none; }
+
+.vt-tab-panel-wrapper + .vt-tab-panel-wrapper { margin-top: 1rem; }
+
+.vt-mobile-toggle { display: flex; }
+
+.vt-tab-panel {
+
+border: 1px solid #dfe4ef;
+
+border-top: none;
+
+border-radius: 0 0 8px 8px;
+
+}
+
+.vt-tab-panel[hidden] { display: none; }
+
+}
+
+Sanjivani University, Kopargaon,  Near Shirdi, Ahilyanagar
+
+(Maharashtra), 423601.
+
+contact@sanjivani.edu.in
+
++91 9137700700 / +91 9130191301
+
+Quick Links
+
+Timing
+
+09:40 AM To 5:40 PM
+
+Site Visitors
+
+5
+
+0
+
+7
+
+4
+
+2
+
+1
+
+How To Reach Us
+
+Shirdi International Airport: 25 kms
+
+Nashik Airport: 75 kms
+
+Chh. Sambhajinagar Airport: 105 kms
+
+Shirdi Railway Station: 13 kms
+
+Kopargaon Railway Station: 0.5 kms
+
+Kopargaon Bus Stand: 1 kms
+
+Samruddhi Highway: 05 kms
+
+©2026 Sanjivani University | All Rights Reserved | Powered by  WhiteCode

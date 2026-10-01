@@ -1,0 +1,234 @@
+
+
+The university presents its academic environment as a community of scholars, students, and alumni focused on learning, innovation, research, and social impact. Its stated approach combines academic excellence with practical teaching, industry interaction, international cooperation, entrepreneurship, communication skills, and opportunities for professional development.
+
+
+The university website lists programmes including B.Tech CSE (AIML), B.Tech CSE (AIDS), B.Tech CSE (Cyber Security), B.Tech CSE, Bachelor of Business Administration, Bachelor of Commerce, Master of Business Administration, and M.Tech CSE Interdisciplinary Studies.
+
+
+Admission Process
+
+Admission to the B.Tech program at Sanjivani University is conducted
+through the centralized admission process governed by the Directorate
+of Technical Education, Maharashtra. Candidates must have passed HSC
+with Physics, Chemistry, and Mathematics as compulsory subjects.
+
+Fee Structure
+
+The annual tuition fee for the B.Tech program is revised each academic
+year as per the Fee Regulating Authority notification and is payable in
+two installments, one at the start of each semester.
+
+
+Examination Rules
+
+Students must maintain a minimum of 75% attendance in each subject to be
+eligible to sit for the semester end examinations. Any student falling
+below this threshold must apply for condonation through the department
+office at least two weeks before the examination schedule is published.
+
+Backlog Policy
+
+Students carrying backlog subjects from previous semesters are permitted
+to appear for a maximum of two backlog papers alongside their current
+semester examinations, subject to timetable clashes being resolved by
+the examination cell.
+
+Revaluation
+
+Students who wish to apply for revaluation of their answer sheets must
+submit a written application to the examination department within seven
+days of the result declaration, along with the prescribed revaluation fee.
+
+
+The university website reports that Fortinet partnered with Sanjivani University to establish a Fortinet Centre of Excellence on August 28, 2024. It also reports the inauguration of an IBM Centre of Excellence on January 23, 2025. These initiatives are presented as supporting cybersecurity education, industry-relevant training, real-world project experience, technological skills, industry readiness, and innovation.
+
+
+Library Timings
+
+The central library at Sanjivani University is open from 8:00 AM to
+9:00 PM on all working days, Monday through Saturday. On Sundays and
+public holidays, the library remains open from 10:00 AM to 4:00 PM for
+reading room access only, with book issue and return services suspended.
+
+Book Borrowing Policy
+
+Undergraduate students may borrow up to three books at a time for a
+period of fourteen days. Postgraduate students and research scholars
+may borrow up to five books for a period of thirty days.
+
+
+TITLE: University Overview
+ORGANIZATION: Sanjivani University
+SOURCE URL: https://sanjivaniuni.edu.in/
+
+Sanjivani University is an institution of higher education established on the 40th anniversary of the Sanjivani Rural Education Society. The university emphasizes academic rigor, innovation, research, global cooperation, industry interaction, and student development. Its academic offerings include Engineering and Technology, Commerce and Management, Social Science and Humanities, School of Sciences, School of Pharmaceutical Science, School of Foreign Languages, School of Interdisciplinary Studies, undergraduate and postgraduate programmes, and global leadership programmes.
+
+================================================================================
+
+TITLE: Academic Courses
+ORGANIZATION: Sanjivani University
+SOURCE URL: https://sanjivaniuni.edu.in/
+
+The university website lists programmes including B.Tech CSE (AIML), B.Tech CSE (AIDS), B.Tech CSE (Cyber Security), B.Tech CSE, Bachelor of Business Administration, Bachelor of Commerce, Master of Business Administration, and M.Tech CSE Interdisciplinary Studies.
+
+================================================================================
+
+TITLE: Student Development and Infrastructure
+ORGANIZATION: Sanjivani University
+SOURCE URL: https://sanjivaniuni.edu.in/
+
+Sanjivani University describes an industry-powered curriculum, Centres of Excellence, innovative maker spaces, incubation facilities, communication laboratories, foreign language certifications, industry internships and placements, modern laboratories and infrastructure, study-abroad and international twinning opportunities, student development programmes, and practical-oriented teaching. The university also highlights customized learning paths and courses aligned with Sustainable Development Goals.
+
+================================================================================
+
+TITLE: Centres of Excellence
+ORGANIZATION: Sanjivani University
+SOURCE URL: https://sanjivaniuni.edu.in/
+
+The university website reports that Fortinet partnered with Sanjivani University to establish a Fortinet Centre of Excellence on August 28, 2024. It also reports the inauguration of an IBM Centre of Excellence on January 23, 2025. These initiatives are presented as supporting cybersecurity education, industry-relevant training, real-world project experience, technological skills, industry readiness, and innovation.
+
+================================================================================
+
+TITLE: Academic Environment
+ORGANIZATION: Sanjivani University
+SOURCE URL: https://sanjivaniuni.edu.in/
+
+The university presents its academic environment as a community of scholars, students, and alumni focused on learning, innovation, research, and social impact. Its stated approach combines academic excellence with practical teaching, industry interaction, international cooperation, entrepreneurship, communication skills, and opportunities for professional development.
+
+================================================================================
+
+
+Sanjivani University describes an industry-powered curriculum, Centres of Excellence, innovative maker spaces, incubation facilities, communication laboratories, foreign language certifications, industry internships and placements, modern laboratories and infrastructure, study-abroad and international twinning opportunities, student development programmes, and practical-oriented teaching. The university also highlights customized learning paths and courses aligned with Sustainable Development Goals.
+
+
+24UAMMD401 Research Methodology L T P
+3 0 0
+Category MCM
+Type Theory
+Prerequisites Nill
+
+After completing the course, students are expected to achieve the following industry-relevant outcomes.
+BTL
+CO Number Course Outcome
+COPMD401.1 Understand the foundations of research including theory, scientific method, variables, and hypothesis formulation for a given research problem. 2
+COMD401.2 Apply appropriate research designs (exploratory, descriptive, experimental, qualitative, quantitative) for different research objectives. 3
+COMD401.3 Apply suitable measurement techniques (validity, reliability, levels of measurement) and sampling methods to a research study. 3
+COMD401.4 Analyze statistical and computational methods (descriptive statistics, hypothesis testing, regression) using Python/R for data-driven research analysis. 4
+COMD401.5 Analyze the use of academic databases, reference management software (Zotero/Mendeley), formatting tools (LaTeX/MS Office), and plagiarism detection tools for effective research reporting 4
+
+CO-PO /PSO Mapping
+Mapping of Course Outcomes to Program Outcomes (POs) & Program Specific Outcomes (PSOs):
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 POS3
+COMD401.1 3 2 1 2 1 - - 1 - 1 - 2 1 1 1
+COMD401.2 3 3 2 3 2 - - 1 1 1 1 2 2 2 1
+COMD401.3 3 3 2 3 2 - - 1 1 1 - 2 2 2 1
+COMD401.4 3 3 2 3 3 - - 1 1 1 1 2 3 2 2
+COMD401.5 2 3 1 2 3 - - 2 1 2 - 2 2 2 1
+Legend: High (3), Medium (2), Low (1) and No mapping (-)
+
+Course Contents
+UNIT I Foundations of Research 9 hrs.
+Foundations of Research: Meaning, Objectives, Motivation, Utility. Concept of theory, empiricism, deductive and inductive theory. Characteristics of scientific method – Understanding the language of research – Concept, Construct, Definition, Variable. Research Process Problem Identification & Formulation – Research Question – Investigation Question – Measurement Issues – Hypothesis – Qualities of a good Hypothesis –Null Hypothesis & Alternative Hypothesis. Hypothesis Testing – Logic & Importance, Introduction to Systematic Literature Review (SLR), Literature review techniques (PRISMA, Scopus search),
+UNIT II Research Design 9 hrs.
+Research Design: Concept and Importance in Research – Features of a good research design – Exploratory Research Design – concept, types and uses, Descriptive Research Designs – concept, types and uses. Experimental Design: Concept of Independent & Dependent variables. Qualitative and Quantitative Research: Qualitative research – Quantitative research – Concept of measurement, causality, generalization, replication. Merging the two approaches, Design thinking in research, AI experiment design (train-test-validation split), Reproducibility concepts.
+UNIT III Measurement 9 hrs.
+Concept of measurement– what is measured? Problems in measurement in research – Validity and Reliability. Levels of measurement – Nominal, Ordinal, Interval, Ratio. Sampling: Concepts of Statistical Population, Sample, Sampling Frame, Sampling Error, Sample Size, Non Response. Characteristics of a good sample. Probability Sample – Simple Random Sample, Systematic Sample, Stratified Random Sample & Multi-stage sampling. Determining size of the sample – Practical considerations in sampling and sample size, Feature engineering basics, Data collection ethics (AI datasets), Bias in datasets.
+UNIT IV Data Analysis 9 hrs.
+Data Preparation – Univariate analysis (frequency tables, bar charts, pie charts, percentages), Bivariate analysis – Cross tabulations and Chi-square test including testing hypothesis of association. Descriptive Statistics, Correlation & Regression, Hypothesis Testing- t-test ANOVA, Interpretation of Data and Paper Writing – Layout of a Research Paper, Journals in Computer Science, Impact factor of Journals, When and where to publish ? Ethical issues related to publishing, Plagiarism and Self-Plagiarism, Introduction to Machine Learning evaluation metrics Accuracy, Precision, Recall, F1-score (Python or R)
+UNIT V AI for Research and Emerging Research Tools 9 hrs.
+AI Tools for Research: Prompt Engineering, Prompt using in research , ChatGPT, Gemini, Elicit, Scite.ai, Research Rabbit, Semantic Scholar, Consensus AI, Connected Papers, GitHub Copilot, Perplexity AI, AI-based Coding Assistants, Research Automation Tools, Prompt Engineering for Research, Ethical Use of AI in Academic Research, Future Trends in AI-assisted Research.
+Total Hours: 45 hrs
+
+Learning Resources
+Text Book:
+1. Donald Cooper & Pamela Schindler, (2008), Business Research Methods, 9th Edition, Tata McGraw-Hill Education (TMGH), ISBN: 9780070141184.
+2. Alan Bryman & Emma Bell, (2015), Business Research Methods, Oxford University Press, ISBN: 9780199668649.
+3. C.R. Kothari, (2004), Research Methodology: Methods and Techniques, 2nd Revised Edition, New Age International Publishers, ISBN: 9788122415223.
+Reference Book:
+1. Uma Sekaran & Roger Bougie, (2016), Research Methods for Business: A Skill-Building Approach, 7th Edition, Wiley, ISBN: 9781119165552.
+2. William G. Zikmund, Barry J. Babin, Jon C. Carr & Mitch Griffin, (2012), Business Research Methods, 9th Edition, Cengage Learning, ISBN: 9781111826925.
+3. Ranjit Kumar, (2019), Research Methodology: A Step-by-Step Guide for Beginners, 5th Edition, Sage Publications, ISBN: 9781526449900.
+Web References:
+1. https://www.classcentral.com/course/swayam-business-research-methods-19811
+2. https://www.coursera.org/programs/c4cb-bits-pilani-learning-program-rxulw/specializations/foundations-of-business-strategy-and-research
+3. https://nptel.ac.in/courses/121106007
+
+Instructional/Implementation Strategies:
+Teaching Pedagogy
+
+Teaching, Learning and Assessment (TLA) scheme
+Teaching & Learning Scheme (Hours/Semester) Assessment Scheme (Marks)
+Classroom Instruction (CI)
+Per Semester Lab Instruction (LI) Hours (Practical) Self-Learning (SL) Hours Total Hours (CI+LI +SL) (For 15 Weeks) Total Credits
+(Total Hours/30) (C) Progressive Theory Assessment (T)
+End Theory Assessment (T) Progressive Lab Assessment (L) Total Marks
+L T CIA Exam Capstone Activity End Theory Sem Lab Assessment (LA) End Laboratory Assessment (ELA)
+45 - - 45 90 (90/30)
+=3 50 20 30 - - 100
+
+Legend:
+CI: Classroom Instruction (Includes different instructional/implementation strategies i.e. Lecture (L), Tutorial (T), Case method, Demonstrations, Video demonstration, Problem based learning.
+LI: Laboratory Instruction (Includes experiments/practical performances /problem-based experiences in laboratory, workshop, field or other locations using different instructional/Implementation strategies)
+SL: Self Learning (Includes MOOCs, spoken tutorials, online educational resources etc.
+(Provide in curriculum structure)
+
+ASSESSMENT CRITERIA AND EVALUATION METHODS
+A) Specification Table for Progressive Theory Assessment (T) - CIA EXAM – 50 Marks
+CIA EXAM Unit Number Relevant COs
+Number(s) Total Marks Marks Split-up
+Taxonomy Levels of Cognitive Domain
+Remember &Understand Apply, Analyse, Evaluate & Create
+
+CIA- 1 Unit-1 COMD401.1 10 6 4
+Unit-2 COMD401.2 10 5 5
+Unit-3
+(First Half) COMD401.3 05 2 3
+CIA- 2 Unit-3
+(Second Half) COMD401.3 05 3 2
+Unit-4 COMD401.4 10 5 5
+Unit-5 COMD401.5 10 4 6
+Total 50 25 25
+
+Specification Table for Progressive Theory Assessment (T) –
+Unit Number
+& CO Number(s) CAPSTONE MODEL 1 CAPSTONE MODEL 2 CAPSTONE MODEL 3 Total Marks Marks Split-up
+Taxonomy Levels of Cognitive Domain
+Remember &Understand Apply, Analyse, Evaluate & Create
+Unit 1 & COMD401.1 QUIZ ASSIGNMENT Programming Exercise 20 7 13
+Unit 2 & COMD401.2 QUIZ ASSIGNMENT Programming Exercise 20 10 10
+Unit 3 & COMD401.3 QUIZ ASSIGNMENT Programming Exercise 20 5 15
+Unit 4 & COMD401.4 QUIZ ASSIGNMENT Programming Exercise 20 8 12
+Unit 5 & COMD401.5 QUIZ ASSIGNMENT Programming Exercise 20 10 10
+Total Marks 100 40 60
+Scaled to 20 8 12
+
+B) Specification Table for End Theory Assessment (ETA) – End Semester – 30 Marks
+Examination Time : 2.5 hr
+Unit Number Relevant COs
+Number(s) Total Marks Marks Split-up
+Taxonomy Levels of Cognitive Domain
+Remember & Understand Apply, Analyse, Evaluate & Create
+Unit-1 COPE432.1 12 5 7
+Unit-2 COPE432.2 12 6 6
+Unit-3 COPE432.3 12 7 5
+Unit-4 COPE432.4 12 6 6
+Unit-5 COPE432.5 12 7 5
+Total 60 31 29
+Scaled to 30 Marks
+
+Suggested Self-Learning (SL):
+Assignment, Seminar Topics, Visit, Complex Engineering Problems and Micro Projects- Questions/ Problems/ Numerical/ Exercises to be provided by the course teacher in line with the targeted COs. (Co Wise)
+SL Particulars Targeted CO No of Hrs Topics Outcome
+1 Seminar CO4, CO5 3 Ethical issues in publishing, plagiarism, self-plagiarism, and impact factor of journals in Computer Science
+Students will be able to analyze ethical issues in academic publishing and identify appropriate journals for research publication
+2 Assignments CO 1,2 & 3 6 1. Formulation of research question & hypothesis
+2. Designing a research design for a given problem
+3. Sampling technique selection & sample size determination Students will be able to understand research foundations, apply appropriate research designs, and apply suitable sampling methods for a given research problem
+3 Self- Learning Topics CO 1 & 5 4 Concept of theory vs empiricism, deductive vs inductive theory, use of encyclopedias, research guides, and handbooks Students will be able to understand theoretical foundations of research and analyze the use of academic reference resources
+4 Complex Engineering Problems CO 3 & 4 5 Problems in measurement (validity/reliability issues), interpretation of Chi-square test for association, handling non-response in sampling Students will be able to apply measurement techniques to solve complex research problems and analyze data using Chi-square test
+5 Micro Projects: CO 2,3 & 4 8 Conduct a mini research study including: problem identification, research design selection, measurement scale development, data collection (n=30), and basic bivariate analysis with interpretation Students will be able to apply research designs and measurement techniques, and analyze data to interpret research findings effectively
+6 Visits CO 5 2 Visit to a library or research center to explore academic databases (IEEE, ACM, Scopus) and reference management software (Zotero/Mendeley) demonstration Students will be able to analyze the use of academic databases and reference management tools for effective research reporting
+
+
+Sanjivani University is an institution of higher education established on the 40th anniversary of the Sanjivani Rural Education Society. The university emphasizes academic rigor, innovation, research, global cooperation, industry interaction, and student development. Its academic offerings include Engineering and Technology, Commerce and Management, Social Science and Humanities, School of Sciences, School of Pharmaceutical Science, School of Foreign Languages, School of Interdisciplinary Studies, undergraduate and postgraduate programmes, and global leadership programmes.

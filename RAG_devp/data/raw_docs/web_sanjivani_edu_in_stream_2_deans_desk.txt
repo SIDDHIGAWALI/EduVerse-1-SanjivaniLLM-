@@ -1,0 +1,147 @@
+SOURCE URL: https://sanjivani.edu.in/stream/2/deans-desk?sectionId=147
+
+Sanjivani University
+
+ENQUIRY FORM
+
+Please wait
+
+Admission enquiry form submitted successful
+
+×
+
+To join whatsapp group click below
+
+button
+
+Join
+
+Whatsapp Group
+
+Close
+
+Whatsapp
+
+Admissions
+
+Facebook
+
+Linkedin
+
+Youtube
+
+Instagram
+
+{{StreamSectNameUrl}}
+
+Home
+
+{{StreamSectNameUrl}}
+
+{{section.dsm_section_name}}
+
+{{section.dsm_section_name}}
+
+No Content Added Yet
+
+{{section.dsm_section_name}}
+
+{{section.dsm_section_name}}
+
+No Content Added Yet
+
+Published On
+
+{{news.nws_created_date | date}}
+
+{{ news.nws_title }}
+
+{{ news.nws_title }}
+
+{{ news.nws_title }}
+
+{{ news.nws_title }}
+
+{{news.nws_title }}
+
+{{ news.nws_title }}
+
+{{ event.evt_title }}
+
+From:
+
+{{ event.evt_valid_from | date }}
+
+To:
+
+{{ event.evt_valid_till | date }}
+
+Location:
+
+{{event.evt_location}}
+
+View Details
+
+{{faculty.tu_name}}
+
+{{faculty.tu_designation}}
+
+Read
+
+More
+
+{{key}}
+
+{{gallery.galleryName}}
+
+No Gallery added yet
+
+Sanjivani University, Kopargaon,
+
+Near Shirdi, Ahilyanagar
+
+(Maharashtra), 423601.
+
+contact@sanjivani.edu.in
+
++91 9137700700 / +91 9130191301
+
+Quick Links
+
+Timing
+
+09:40 AM To 5:40 PM
+
+Site Visitors
+
+5
+
+0
+
+7
+
+4
+
+8
+
+2
+
+How To Reach Us
+
+Shirdi International Airport: 25 kms
+
+Nashik Airport: 75 kms
+
+Chh. Sambhajinagar Airport: 105 kms
+
+Shirdi Railway Station: 13 kms
+
+Kopargaon Railway Station: 0.5 kms
+
+Kopargaon Bus Stand: 1 kms
+
+Samruddhi Highway: 05 kms
+
+©2026 Sanjivani University | All Rights Reserved | Powered by
+
+WhiteCode

@@ -1,0 +1,17 @@
+SOURCE URL: https://sanjivani.edu.in/hostel-fees
+
+HOSTEL FEES
+
+Hostel Fees
+
+Hostel Fees
+
+Type	Fees (₹)
+
+Basic	33,000
+
+Semi	55,000
+
+AC	1,10,000
+
+Semi-2	75,000
